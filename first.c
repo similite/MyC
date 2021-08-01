@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+# моя структура
 typedef struct student
 {
     int id;
